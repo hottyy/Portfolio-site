@@ -175,11 +175,6 @@ section{
 }
 
 .section__pic-container img{
-    width: auto;
-    max-width: 40%;
-    height: auto;
-    margin-top: 0;
-    margin-left: 0;
     border-radius: 10px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
 }
